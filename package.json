@@ -1,5 +1,5 @@
 {
-  "name": "serial-as",
+  "name": "@cidt/serial-as",
   "version": "1.0.2-0",
   "description": "A serializer template for the assemblyscript language",
   "main": "dist",
