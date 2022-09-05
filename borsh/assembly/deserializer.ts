@@ -2,7 +2,7 @@ import { Deserializer, allocObj } from "@serial-as/core";
 import { DecodeBuffer } from "./buffer";
 
 export class BorshDeserializer extends Deserializer<ArrayBuffer>{
-  private decoBuffer: DecodeBuffer;
+  public decoBuffer: DecodeBuffer;
   
   constructor(encoded_object: ArrayBuffer) {
     super(encoded_object)
