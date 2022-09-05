@@ -14,5 +14,6 @@
   "dependencies": {
     "@serial-as/transform": "^1.0.1",
     "as-bignum": "^0.2.17"
-  }
+  },
+  "gitHead": "6de19ac6a795ab64cad869eef17c4d584b172e75"
 }

@@ -19,5 +19,6 @@
   },
   "devDependencies": {
     "@serial-as/tests": "^1.0.1"
-  }
+  },
+  "gitHead": "6de19ac6a795ab64cad869eef17c4d584b172e75"
 }

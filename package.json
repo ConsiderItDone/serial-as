@@ -6,12 +6,12 @@
   "types": "dist",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/gagdiez/serial-as.git",
+    "url": "git+ssh://git@github.com/ConsiderItDone/serial-as.git",
     "directory": ""
   },
   "author": "Guillermo Gallardo & Willem Wyndham",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "scripts": {
     "test": "asp",
     "test:borsh": "asp -f bencode",
